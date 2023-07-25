@@ -10,7 +10,7 @@
 - This notebook contains the basic operation of a **neuron** in a neural network mathematically.
 - In short: 🔨 Building a **NEURON**. 
 
-## 2. Skin_Cancer_prediction:
+## 2. Skin_Cancer_Predict_Model:
 
 - In this notebook, I am trying to implement the above-built **NEURON** to operate on large image datasets regarding skin cancer.
 - Work-In-Progress ⚠️
